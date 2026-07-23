@@ -61,8 +61,7 @@
   "experimental": {
     "cache_file": {
       "enabled": true,
-      "path": "cache.db",
-      "store_dns": true
+      "path": "cache.db"
     },
     "clash_api": {
       "external_controller": "127.0.0.1:9090",
