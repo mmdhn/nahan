@@ -26,7 +26,6 @@
     ],
     "final": "google",
     "strategy": "prefer_ipv4",
-    "optimistic": true,
     "reverse_mapping": true
   },
   "inbounds": [
