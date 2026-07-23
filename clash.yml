@@ -41,8 +41,7 @@ dns:
     - '*.msftconnecttest.com'
     - '*.msftncsi.com'
   nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
+    - https://dns.controld.com/ei5duylln4
   fallback:
     - https://1.1.1.1/dns-query
     - https://dns.google/dns-query
